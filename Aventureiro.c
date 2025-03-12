@@ -114,9 +114,7 @@ int main () {
         break;
         default:
             printf("Opcao Invalida\n");
-
         }
-
 
         printf("-------------------------\n");
 
