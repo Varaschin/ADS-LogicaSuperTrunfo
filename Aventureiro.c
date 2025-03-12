@@ -29,7 +29,7 @@ int main () {
         printf ("COMPARACAO ENTRE AS CARTAS \n\n");
 
 
-// Imprimindo dados da Cartas:
+// Imprimindo Menu dos Atributos:
 
 
         printf("*** ATRIBUTOS ***\n");
