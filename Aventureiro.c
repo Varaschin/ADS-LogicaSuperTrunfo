@@ -23,14 +23,12 @@ int main () {
 
         int escolha;
 
-// Inserindo dados da Carta 1:
+// Cabeçalho
         printf ("*** DESAFIO SUPER TRUNFO ***\n");
         printf ("*** NIVEL AVENTUREIRO ***\n");
         printf ("COMPARACAO ENTRE AS CARTAS \n\n");
 
-
 // Imprimindo Menu dos Atributos:
-
 
         printf("*** ATRIBUTOS ***\n");
         printf("1 - Populacao\n");
@@ -42,8 +40,6 @@ int main () {
         scanf("%d", &escolha);
 
         printf("-------------------------\n");
-
-
 
         switch(escolha){
         case 1:
